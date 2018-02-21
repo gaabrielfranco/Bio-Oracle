@@ -4,7 +4,7 @@
 O Bio-ORACLE (Bio de Bioinformatics e Bioethics; ORACLE de “Organizer of the Rational Approach in Computational Learning Ethics”) é um software em [JAVA] que utiliza técnicas de mineração de dados para auxiliar à tomada de decisão em bioética, utilizando o [NiceSim] como base do projeto. Foi desenvolvido pelo Laboratório de Métodos Epidemiológicos e Computacionais em Saúde do [Departamento de Medicina e Enfermagem] da [Universidade Federal de Viçosa].
 
 ##### EN:
-Bio-ORACLE (Bio of Bioinformatics and Bioethics; ORACLE of “Organizer of the Rational Approach in Computational Learning Ethics”) is a software written in [JAVA] which uses data mining techniques to help decision-making in bioethics, using [NiceSim] as the core of the project. Bio-ORACLE was developed at LAP/L-MECS, hosted in [Department of Medicine and Nursing] in [Universidade Federal de Viçosa].
+Bio-ORACLE (Bio of Bioinformatics and Bioethics; ORACLE of “Organizer of the Rational Approach in Computational Learning Ethics”) is a software written in [JAVA] which uses data mining techniques to help decision-making in bioethics, using [NiceSim] as the core of the project. Bio-ORACLE was developed at Laboratory of Epidemiological and Computational Methods in Health of [Department of Medicine and Nursing] in [Universidade Federal de Viçosa].
 
 ### Para desenvolvedores / To developers
 ##### PT-BR:
